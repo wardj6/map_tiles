@@ -1,1 +1,1 @@
-GitHub Pages site to host tile maps for leaflet
+GitHub repository to house tile maps for leaflet
